@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-
-
 #EXTINF:-1 tvg-id="917" tvg-name="Russian" tvg-logo="https://www.m3u.cl/logo/917_Russian.png" group-title="XXX Adultos", Russian  | US
 http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
 
