@@ -1201,7 +1201,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV
 
 
 #EXTINF:-1 tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/tn.webp" group-title="ARGENTINA",TN HD 🇦🇷
-https://www.youtube.com/watch?v=cb12KmMMDJA
+https://edge03-cde-py.cvattv.com.ar/live/c4eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
 #EXTINF:-1 tvg-logo="https://a-qiio.onrender.com/webp/logos/optimized/ciudad.webp" group-title="ARGENTINA",Ciudad Magazine 🇦🇷
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
